@@ -13,5 +13,4 @@
 .externalNativeBuild
 .cxx
 local.properties
-/app/src/main/java/com/example/githubtesting/domain_layer
-/app/src/main/java/com/example/githubtesting/presentation_layer/screens/MainScreenUI.kt
+
